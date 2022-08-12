@@ -1865,6 +1865,9 @@ body {
   display: none;
 }
 .reviews-content__hide-title{
+  min-height: 100px;
+  display: flex;
+  align-items: center;
   color: rgb(238, 223, 182);
   text-align: center;
   margin-right: auto;
